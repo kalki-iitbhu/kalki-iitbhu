@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./download.jpg" width="100%" alt="Banner">
+</p>
+
 # Hi 
 
  Mechanical Engineering @ IIT BHU 
