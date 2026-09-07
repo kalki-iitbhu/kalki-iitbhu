@@ -2,8 +2,8 @@
   <img src="./download1.jpg" width="100%" alt="Banner">
 </p>
 
-### 👋 Hello! I'm Madhvendra Pratap
-**Engineering Student @ IIT (BHU) Varanasi | Mechatronics | Automotive | Aerospace**
+### 👋 Hello!
+**Mechanical Engineering Student @ IIT (BHU) Varanasi | Mechatronics | Automotive | Aerospace**
 
 I am passionate about **Machine Design** and developing complex mechanical systems using **SolidWorks** and **Fusion 360**. My work focuses heavily on mechanical simulation, specifically **CFD** and **Structural Analysis**, to validate and optimize physical performance. Additionally, I am deeply interested in **Mechatronics** and **Machine Learning**, bridging the gap between hardware and software by writing motion control logic in **ROS 2** and **C++** and implementing intelligent algorithms.
 
